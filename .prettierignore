@@ -1,0 +1,16 @@
+**/*.svg
+package.json
+.umi
+.umi-production
+/dist
+.DS_Store
+.eslintignore
+*.png
+*.toml
+.editorconfig
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+yarn-error.log
+.history
